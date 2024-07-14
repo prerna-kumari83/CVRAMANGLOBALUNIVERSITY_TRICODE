@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    height: 11rem;
+    width: 26rem;
+    
+    display: flex;
+    background: linear-gradient(260deg,pink 0%,#a00ca0 100%);
+    border-radius: 1.2rem;
+    justify-content: space-between;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 20px 20px  20px #4f2626;
+    overflow: visible;
+    opacity: 0;
+}
+
+
+#img1{
+    height: 10rem;
+    width: 9rem;
+    border-radius: 1.2rem;
+    padding:0.5rem;
+    background-color: bisque;
+    margin:0.4rem;
+   
+    
+    
+
+
+}
+img{
+    height:8rem;
+    width:8rem;
+    border-radius:50%;
+    padding:0.5rem;
+    box-shadow: 0 0 10px #4f2626;
+    margin-top:0.5rem;
+    z-index: 10;
+    
+}
+
+#hanger{
+    height: 3rem;
+    width: 5rem;
+    position: absolute;
+    top: 70%;
+    left: 49%;
+    transform: translate(8rem,3rem);
+    overflow: visible;
+    opacity: 0;
+    
+
+   
+}
+h2{
+    text-align: center;
+    font-size:1.2rem;
+    font-family: Mochiy Pop One;
+    color:#f2f1ee;
+    margin-right: 3rem;
+    margin-top: 0.2rem;
+    padding: 0;
+    
+    
+}
+
+p{
+    
+    text-align: center;
+    font-size:0.7rem;
+    margin-top: 0.5rem;
+    margin-right:0.3rem;
+
+}
+
+
+#text{
+    text-align: center;
+    font-family: Poppins;
+    padding: 0;
+    
+    
+}
+
