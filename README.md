@@ -83,9 +83,10 @@ git clone https://github.com/your-username/fashion-popup.git
 
 ---
 
+
 ## 📸 Preview
 
-![Preview](https://via.placeholder.com/600x300?text=Fashion+Popup+Preview)
+![Popup Preview](pop_up.jpeg)
 
 ---
 
