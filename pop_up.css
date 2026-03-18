@@ -3,6 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    height:100vh;
+    background: linear-gradient(135deg,#667eea,#764ba2);
+}
 #container{
     height: 11rem;
     width: 26rem;
